@@ -1,0 +1,13 @@
+# Mac stuff
+.DS_Store
+
+# ETNA svn
+.svn
+
+# Temp files
+*.swp
+src/*.swp
+
+# Project subject and tests
+sujet/
+tests/
